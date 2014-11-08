@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>bootloader/EMW3162</Project><Project>COM.Apple.HomeKit/EMW3162</Project><Project>COM.MXCHIP.HA/EMW3162</Project><Project>COM.MXCHIP.SPP/EMW3162</Project><Project>COM.MXCHIP.CLOUD/EMW3162</Project></CurrentConfigs><CurrentProj>COM.MXCHIP.CLOUD</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>249</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>933</ColumnWidth1><ColumnWidth2>249</ColumnWidth2><ColumnWidth3>62</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>23</ColumnWidth0><ColumnWidth1>1242</ColumnWidth1></Debug-Log><Select-Ambiguous-Definitions><ColumnWidth0>448</ColumnWidth0><ColumnWidth1>64</ColumnWidth1><ColumnWidth2>769</ColumnWidth2></Select-Ambiguous-Definitions><Find-in-Files><ColumnWidth0>384</ColumnWidth0><ColumnWidth1>64</ColumnWidth1><ColumnWidth2>576</ColumnWidth2><ColumnWidth3>256</ColumnWidth3></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22828-32038</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>COM.MXCHIP.CLOUD</ExpandedNode><ExpandedNode>COM.MXCHIP.CLOUD/Application</ExpandedNode><ExpandedNode>COM.MXCHIP.CLOUD/Library</ExpandedNode><ExpandedNode>COM.MXCHIP.CLOUD/Library/MicoCloudService</ExpandedNode><ExpandedNode>COM.MXCHIP.CLOUD/Library/MicoCloudService/MicoMQTTClient</ExpandedNode><ExpandedNode>COM.MXCHIP.CLOUD/MICO</ExpandedNode><ExpandedNode>COM.MXCHIP.CLOUD/Support</ExpandedNode><ExpandedNode>COM.MXCHIP.HA</ExpandedNode><ExpandedNode>COM.MXCHIP.HA/Application</ExpandedNode><ExpandedNode>COM.MXCHIP.SPP</ExpandedNode><ExpandedNode>COM.MXCHIP.SPP/Application</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20737-32077</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-20599-25421</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-31211-18636</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab><Identity>TabID-6569-5667</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Demos\COM.MXCHIP.CLOUD\MICOAppEntrance.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>93</YPos2><SelStart2>4307</SelStart2><SelEnd2>4307</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Demos\COM.MXCHIP.CLOUD\MICOAppDefine.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>84</YPos2><SelStart2>3773</SelStart2><SelEnd2>3773</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Library\MicoCloudService\MicoCloudService.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>413</YPos2><SelStart2>17825</SelStart2><SelEnd2>17825</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Library\MicoCloudService\MicoCloudService.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>76</YPos2><SelStart2>3001</SelStart2><SelEnd2>3001</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Library\MicoCloudService\MicoMQTTClient\MicoMQTTClient.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>177</YPos2><SelStart2>4005</SelStart2><SelEnd2>4005</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Library\MicoCloudService\MicoMQTTClient\MicoMQTTClient.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>73</YPos2><SelStart2>2987</SelStart2><SelEnd2>2987</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Demos\COM.MXCHIP.CLOUD\HaProtocol.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>83</YPos2><SelStart2>1103</SelStart2><SelEnd2>1103</SelEnd2></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Demos\COM.MXCHIP.CLOUD\HaProtocol.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>30</YPos2><SelStart2>1295</SelStart2><SelEnd2>1307</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02622D78><key>iaridepm.enu1</key></Toolbar-02622D78></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>492</Bottom><Right>340</Right><x>-2</x><y>-2</y><xscreen>196</xscreen><yscreen>198</yscreen><sizeHorzCX>153125</sizeHorzCX><sizeHorzCY>275766</sizeHorzCY><sizeVertCX>267188</sizeVertCX><sizeVertCY>688022</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>181</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>183</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>254875</sizeHorzCY><sizeVertCX>153125</sizeVertCX><sizeVertCY>275766</sizeVertCY></Rect></Wnd4></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
